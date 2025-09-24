@@ -1,0 +1,28 @@
+body {
+  background-color: wheat;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: lightgray;
+  padding: 1rem;
+}
+
+ol {
+  list-style-type: none;
+}
+
+li:nth-child(1) {
+  background-color: blue;
+  color: white;
+}
+
+li:nth-child(8) {
+  background-color: green;
+  color: white;
+}
+
+li:nth-child(15) {
+  color: white;
+  background-color: pink;
+}
